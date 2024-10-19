@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://satyendra9580.github.io/Personal-Portfolio-using-React/](https://satyendra9580.github.io/Personal-Portfolio-using-React/)
+- 👨‍💻 All of my projects are available at [https://satyendra9580.github.io/Personal-Portfolio-using-React/](https://personal-portfolio-using-react-five.vercel.app/)
 
 - 💬 Ask me about **React.JS and CP**
 
